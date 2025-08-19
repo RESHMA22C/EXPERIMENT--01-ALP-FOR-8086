@@ -140,7 +140,9 @@ HLT
 # Output
 
 
-<img width="1010" height="550" alt="image" src="https://github.com/user-attachments/assets/45a74cbd-7f16-4046-a700-b3dc2cdc8c98" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0704a622-e41e-4f25-8397-2553305e97b6" />
+
 
 
 # OR of 8 bit numbers ALP
@@ -154,7 +156,8 @@ HLT
 # Output
 
 
-<img width="1035" height="556" alt="image" src="https://github.com/user-attachments/assets/43225625-c58f-4223-8880-9b0ce4f35819" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c495018-48f0-4fb4-b0cb-1c4769f977f0" />
+
 
 # NOT of 8 bit number ALP
 ~~~
@@ -165,7 +168,8 @@ HLT
 # Output
 
 
-<img width="1028" height="525" alt="image" src="https://github.com/user-attachments/assets/13e8d66c-112c-4151-ab54-5ded2ef2bb32" />
+<img width="1322" height="863" alt="image" src="https://github.com/user-attachments/assets/b21e455f-dac3-4846-be26-84c76a33baea" />
+
 
 # XOR of 8 bit number ALP
 ~~~
@@ -176,7 +180,8 @@ HLT
 ~~~
 # Output:
 
-<img width="1034" height="547" alt="image" src="https://github.com/user-attachments/assets/67a7bd4b-cba4-4de9-975d-ed104793471b" />
+<img width="1047" height="801" alt="image" src="https://github.com/user-attachments/assets/4e32ae17-2a29-4ffa-bb7d-6fb9539c21ec" />
+
 
 ## Result :
 
